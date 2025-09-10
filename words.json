@@ -1,0 +1,7 @@
+[
+  { "word": "apple", "translation": "سیب", "examples": ["I ate an apple.", "She bought a red apple."] },
+  { "word": "book", "translation": "کتاب", "examples": ["He is reading a book.", "This book is interesting."] },
+  { "word": "cat", "translation": "گربه", "examples": ["The cat is sleeping.", "I have a black cat."] },
+  { "word": "dog", "translation": "سگ", "examples": ["The dog is barking.", "She loves her dog."] },
+  { "word": "elephant", "translation": "فیل", "examples": ["The elephant is huge.", "An elephant never forgets."] }
+]
